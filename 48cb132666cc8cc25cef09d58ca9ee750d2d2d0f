@@ -1,0 +1,18 @@
+{
+  "base": "3de7684538546b292945f99356823dfe002c50ec",
+  "head": "48cb132666cc8cc25cef09d58ca9ee750d2d2d0f",
+  "pr_text_lines": 334,
+  "large_commits": [
+    {
+      "sha": "48cb132666cc8cc25cef09d58ca9ee750d2d2d0f",
+      "text_lines": 334
+    }
+  ],
+  "coverage_complete": true,
+  "unmeasured_commits": [],
+  "required": true,
+  "status": "pending",
+  "schema_version": 1,
+  "change_id": "I2097d68f63fdf39ab43e3f6ec88676f0e0e2aba1",
+  "workbench_started": false
+}
