@@ -14,5 +14,5 @@
   "status": "pending",
   "schema_version": 1,
   "change_id": "I7035a14083fe277099d99865f963bda791cc3d21",
-  "workbench_started": false
+  "workbench_started": true
 }
